@@ -5,8 +5,8 @@ Here's an overview of the dataset:
 
 Sales Dataset Overview:
 •	Entities:
-•	Orders: Each row represents a unique order with details such as Order_ID, Customer Name, Product, Region, Sales, and timestamps for registration, purchase, and 
-          potential refunds.
+•	Orders: Each row represents a unique order with details such as Order_ID, Customer Name, Product, Region, Sales, and timestamps for registration, purchase, 
+                   and potential refunds.
 •	Products: Information about the products involved in the transactions.
 •	Attributes:
 •	Order_ID: Unique identifier for each order.
