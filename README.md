@@ -4,18 +4,30 @@ This SQL project analyzes a sales dataset to derive meaningful insights. The dat
 Here's an overview of the dataset:
 
 Sales Dataset Overview:
+
 •	Entities:
+
 •	Orders: Each row represents a unique order with details such as Order_ID, Customer Name, Product, Region, Sales, and timestamps for registration, purchase, 
                    and potential refunds.
+
 •	Products: Information about the products involved in the transactions.
+
 •	Attributes:
+
 •	Order_ID: Unique identifier for each order.
+
 •	Customer Name: Name of the customer making the purchase.
+
 •	Product: The specific product being bought.
+
 •	Region: Geographic region associated with the transaction.
+
 •	Sales: The monetary value of the sale.
+
 •	Timestamps: Recorded times for order registration, purchase, and potential refunds.
+
 •	Features:
+
 •	Refunded: Indicates whether a refund was processed (TRUE/FALSE).
 •	Origin: The source or origin of the transaction, providing insights into marketing channels.
 
